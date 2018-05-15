@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Calderon",
+    "code": "FLUMBO",
+    "vendor": "Dogtown",
+    "sku": "CULPA0",
+    "price": 1193,
+    "quantity": 299,
+    "addedBy": "system",
+    "tags": [
+      "commodo",
+      "est",
+      "quis"
+    ]
+  },
+  {
+    "name": "Marietta",
+    "code": "MOREGANIC",
+    "vendor": "Pheast",
+    "sku": "CONSEQUAT4",
+    "price": 2678,
+    "quantity": 187,
+    "addedBy": "system",
+    "tags": [
+      "ut",
+      "dolor",
+      "cupidatat"
+    ]
+  },
+  {
+    "name": "Ella",
+    "code": "UNCORP",
+    "vendor": "Nspire",
+    "sku": "LABORUM0",
+    "price": 2394,
+    "quantity": 209,
+    "addedBy": "system",
+    "tags": [
+      "incididunt",
+      "ea",
+      "dolor"
+    ]
+  }
+]
