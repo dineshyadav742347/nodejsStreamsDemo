@@ -1,7 +1,6 @@
 const router = require('express').Router();
 const productCtrl = require('./products.controller');
 const logger = require('../../logger');
-const JSONStream = require('JSONStream');
 
 router.get('/', (req, res) => {
   try {
